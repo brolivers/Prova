@@ -1,0 +1,21 @@
+{
+  "name": "ristorantew",
+  "version": "0.0.0",
+  "description": "programma ristorante",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"ristorante\"",
+    "\"pizzeria\"",
+    "\"sala",
+    "ricevimenti\"",
+    "\"bar\""
+  ],
+  "author": "bruno <brnbattaglia@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node": "^9.5.0"
+  }
+}
